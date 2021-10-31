@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background-image:url("../images/Animes.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    margin: 0px;
+    padding: 0px;
+}
+.titulo {
+    color:rgb(25, 223, 223);
+    font-size: 6vh;
+    font-family: serif;
+}
+
+#animeQuote {
+    color:  rgb(151, 255, 255);
+    font-size: 4vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
