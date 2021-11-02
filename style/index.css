@@ -5,7 +5,7 @@ body {
     top: 40%;
     left: 50%;
     transform: translate(-40%, -50%);
-    background-image:url("../images/animev3.jpg");
+    background-image:url("../images/Animes.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -23,4 +23,13 @@ body {
     color:  rgb(255, 247, 247);
     font-size: 3vh;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgrey;
+}
+
+#showMore {
+    margin-top: 3vh;
+    border-radius: 6px;
+    padding: 4vh;
+    color: darkgrey;
+    color: black;
 }
