@@ -10,3 +10,7 @@ window.addEventListener('load', (event) => {
     var animePhrase = document.getElementById("animeQuote")
     animePhrase.textContent = quote.quote
   }
+
+function helloWorld () {
+    console.log("Hello World")
+}
